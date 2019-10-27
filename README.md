@@ -1,1 +1,1 @@
-# seznamgroznihstvari
+# seznam
